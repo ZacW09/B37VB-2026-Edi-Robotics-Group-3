@@ -30,5 +30,5 @@ The robots right wheel was off axis so when completing a full rotation the robot
 
 \##Conclusion
 
-
+This test proves that open loop control is not ideal in this use case as the real life conditions aren't ideal and so the buggy doesnt perform as theoretically expectected. It is alzso impractical to constantly have to manually adjust the buggy motor speeds each time and then test if it goes straight as opposed to having a system that takes feedback and adjusts motor speed automatically
 
