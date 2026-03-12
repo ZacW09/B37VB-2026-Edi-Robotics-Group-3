@@ -6,4 +6,4 @@ In /doc there is a markdown file containing a report on what was conducted withi
 In /src there is an .ino file containing the source code used on the buggy
 
 Collaborators: 
-J Morris (JHM4000) & Z Wilson (ZW4023)
+J Morris (JHM4000) & Z Wilson (ZW4023) & D Wilson (DDW4000)
